@@ -21,3 +21,10 @@ Fellowship learning
 + number 1
 + number 2
 + number 3
+
+# ordered list 
+
+1. number 1
+2. number 2
+3. number 3
+4. 
