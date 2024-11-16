@@ -8,6 +8,9 @@ Fellowship learning
 # list
 
 - number 1
+  - nested 1
+  - nested 2
+  - nested 3
 - number 2
 - number 3
 
